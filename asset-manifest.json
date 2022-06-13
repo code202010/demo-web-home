@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "https://code202010.github.io/demo-web-home/static/css/main.598cbb31.css",
+    "main.js": "https://code202010.github.io/demo-web-home/static/js/main.ee909678.js",
+    "static/js/27.86f465b2.chunk.js": "https://code202010.github.io/demo-web-home/static/js/27.86f465b2.chunk.js",
+    "static/media/homeimage3.jpg": "https://code202010.github.io/demo-web-home/static/media/homeimage3.68586ed909540ded3e43.jpg",
+    "static/media/home-service.png": "https://code202010.github.io/demo-web-home/static/media/home-service.f20d84bb11bab2c2eefb.png",
+    "static/media/homeimage1.png": "https://code202010.github.io/demo-web-home/static/media/homeimage1.460ffb8bdc392290e719.png",
+    "static/media/homeimage2.png": "https://code202010.github.io/demo-web-home/static/media/homeimage2.456341d1d4c452fbac4e.png",
+    "static/media/home-logo.png": "https://code202010.github.io/demo-web-home/static/media/home-logo.23c379b586eae8a94513.png",
+    "index.html": "https://code202010.github.io/demo-web-home/index.html",
+    "static/media/menuicon.svg": "https://code202010.github.io/demo-web-home/static/media/menuicon.1bc647c1d4c24b1d78ad.svg"
+  },
+  "entrypoints": [
+    "static/css/main.598cbb31.css",
+    "static/js/main.ee909678.js"
+  ]
+}
